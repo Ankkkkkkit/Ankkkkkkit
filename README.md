@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on open-source projects, innovative software solutions, and development of scalable applications.
 - 📫 How to reach me: ankitsingh02003@gmail.com | https://www.linkedin.com/in/ankit-singh-cs23/
 - 😄 Pronouns: he/him
-- 
-  
 
 <!---
 Ankkkkkkit/Ankkkkkkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
